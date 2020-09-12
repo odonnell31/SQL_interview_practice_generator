@@ -18,8 +18,8 @@ Updated on Sat Sep 12 11:21:00 2020
 
 # import libraries
 import pandas as pd
-import requests
-from bs4 import BeautifulSoup
+#import requests
+#from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
 import random
     
@@ -135,7 +135,9 @@ tenants = tenants.set_index('tenant_id')
 
 # preview the newly created dataframes
 print(apartments.head(3))
+print("="*75)
 print(buildings.head(3))
+print("="*75)
 print(tenants.head(3))
 
 # export all three dataframes as csv's
