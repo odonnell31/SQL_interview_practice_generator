@@ -9,13 +9,13 @@ While preparing for a technical interview or just brushing up on SQL, it's nice 
 ![Alt text](example_output_CSV_tables/example_picture.JPG)
 
 ## About the Dataset:
-apartments relates to buildings by building_id
-apartments relates to tenants by aparment_id
-buildings and tenants have no shared columns, must be joined using apartments table
+- apartments relates to buildings by building_id
+- apartments relates to tenants by aparment_id
+- buildings and tenants have no shared columns, must be joined using apartments table
 
 In the folder SQL_practice_questions is a list of practice SQL questions and answers for this puesdo-dataset
 
 ## Data science tools used:
-Python (language)
-pandas (python library)
-random (python library)
+- Python (language)
+- pandas (python library)
+- random (python library)
