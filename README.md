@@ -1,7 +1,7 @@
 # SQL_interview_practice_generator
- python project to generate puesdo data to practice for SQL interview questions
- Created: 10/23/19
- Updated: 9/12/20
+python project to generate puesdo data to practice for SQL interview questions
+- Created: 10/23/19
+- Updated: 9/12/20
 
 ## Project Overview:
 While preparing for a technical interview or just brushing up on SQL, it's nice to have new, clean data. In this simple project, the python file generate_puesdo_data.py creates new puesdo-data each time it's run. The data will always have 3 tables: apartments, buildings, and tenants. Here's a preview of each table, respectively:
